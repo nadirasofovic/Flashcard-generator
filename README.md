@@ -26,12 +26,12 @@ Using **Natural Language Processing (NLP)** techniques and deep learning models,
 ## **Technologies Used**
 | Technology            | Purpose |
 |----------------------|------------------------------------------|
-| **Python**           | Core programming language |
-| **spaCy**            | NLP library for Named Entity Recognition (NER) |
-| **Hugging Face**     | T5 model for text summarization & question generation |
-| **Tkinter**          | GUI framework for user interaction |
-| **pdfplumber**       | Extracting text from PDF files |
-| **python-docx**      | Extracting text from Word documents |
+|  **Python**          | Core programming language |
+|  **spaCy**           | NLP library for Named Entity Recognition (NER) |
+|  **Hugging Face**    | T5 model for text summarization & question generation |
+|  **Tkinter**         | GUI framework for user interaction |
+|  **pdfplumber**      | Extracting text from PDF files |
+|  **python-docx**     | Extracting text from Word documents |
 
 ---
 
