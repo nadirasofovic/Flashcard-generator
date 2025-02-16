@@ -10,7 +10,7 @@ Using **Natural Language Processing (NLP)** techniques and deep learning models,
 - **Supports Multiple Input Formats**: Works with `.txt`, `.docx`, and `.pdf` files.
 - **Summarization & Question Generation**: Uses NLP libraries like **spaCy** and **Hugging Face’s T5 model** to extract key terms and generate fill-in-the-blank questions.
 - **Interactive Flashcards**: Users can navigate flashcards with **"Next" and "Previous"** buttons and reveal key terms interactively.
-- 🖥**Easy-to-Use Interface**: A simple **GUI (Tkinter)** allows users to upload files and generate flashcards instantly.
+- **Easy-to-Use Interface**: A simple **GUI (Tkinter)** allows users to upload files and generate flashcards instantly.
 
 ---
 
